@@ -1,3 +1,4 @@
+package MultiDemntion_array;
 import java.util.Scanner;
 
 public class Multidemntion_arr {
